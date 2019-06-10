@@ -1,5 +1,6 @@
 # Django Blog Project
-##### 参考代码链接：![杜赛的个人网站](https://www.dusaiphoto.com/)
+
+##### 参考代码链接：[杜赛的个人网站](https://www.dusaiphoto.com/)
 
 1. 项目是在虚拟环境中，需要如下的相关环境：
 - Django==2.1
@@ -11,4 +12,4 @@
 - Pygments==2.4.1
 - pytz==2019.1
 
-2. 博客项目已经基本完工，需要继续学习WSGI 和 Nginx来完成项目的部署。 
+2. 博客项目已经基本完工，需要继续学习**WSGI**和**Nginx**来完成项目的部署。 
